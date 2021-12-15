@@ -1,0 +1,14 @@
+C:\Users\ali delibaş\source\repos\masaustu\odev3\odev3\bin\Debug\odev3.exe.config
+C:\Users\ali delibaş\source\repos\masaustu\odev3\odev3\bin\Debug\odev3.exe
+C:\Users\ali delibaş\source\repos\masaustu\odev3\odev3\bin\Debug\odev3.pdb
+C:\Users\ali delibaş\source\repos\masaustu\odev3\odev3\obj\Debug\odev3.csproj.AssemblyReference.cache
+C:\Users\ali delibaş\source\repos\masaustu\odev3\odev3\obj\Debug\odev3.eklem.resources
+C:\Users\ali delibaş\source\repos\masaustu\odev3\odev3\obj\Debug\odev3.Form1.resources
+C:\Users\ali delibaş\source\repos\masaustu\odev3\odev3\obj\Debug\odev3.Properties.Resources.resources
+C:\Users\ali delibaş\source\repos\masaustu\odev3\odev3\obj\Debug\odev3.csproj.GenerateResource.cache
+C:\Users\ali delibaş\source\repos\masaustu\odev3\odev3\obj\Debug\odev3.csproj.CoreCompileInputs.cache
+C:\Users\ali delibaş\source\repos\masaustu\odev3\odev3\obj\Debug\odev3.exe
+C:\Users\ali delibaş\source\repos\masaustu\odev3\odev3\obj\Debug\odev3.pdb
+C:\Users\ali delibaş\source\repos\masaustu\odev3\odev3\obj\Debug\odev3.liste.resources
+C:\Users\ali delibaş\source\repos\masaustu\odev3\odev3\obj\Debug\odev3.delete.resources
+C:\Users\ali delibaş\source\repos\masaustu\odev3\odev3\obj\Debug\odev3.guncelleme.resources
